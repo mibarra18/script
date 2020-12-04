@@ -26,3 +26,7 @@ wmic nic get macaddress
 
 #Revision de adaptadores de red general
 ipconfig /all
+
+
+
+####PRUEBA EXITOSA####
